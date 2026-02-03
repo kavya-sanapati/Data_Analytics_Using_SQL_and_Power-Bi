@@ -125,5 +125,5 @@ If you found this project insightful or would like to collaborate on data analyt
 
 ## **Author**
 
-**Sai Deepik Devarasetti**
+**Kavya Sanapati**
 Data Analyst
